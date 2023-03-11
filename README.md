@@ -5,8 +5,6 @@
 ---
 
 - Actuellement, je suis en train d'apprendre les bases du développement web, vous pouvez retrouver ci-dessous la stack que j'aimerais utiliser plus tard !
-- 📫 Comment me joindre **marwan.erraguid@gmail.com**
-
 ---
 
 <h3 align="center">Langages : </h3>
