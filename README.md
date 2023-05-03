@@ -4,7 +4,7 @@
 
 ---
 
-- Actuellement, je suis en train d'apprendre les bases du développement web, vous pouvez retrouver ci-dessous la stack que j'aimerais utiliser plus tard !
+- Actuellement, je suis en train d'apprendre les technos ci-dessous
 ---
 
 <h3 align="center">Langages : </h3>
